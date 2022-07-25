@@ -1,1 +1,2 @@
-#Project to practice HTML from Odin Project
+# Recipes Odin Project #
+Project to practice recipes from Odin Project
